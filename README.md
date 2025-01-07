@@ -1,3 +1,5 @@
+## Note: The app is still under developent
+
 # SmartBus Tracker
 
 In Jodhpur, where city buses provide an essential mode of transport, I noticed a gap in how information about bus routes is presented. Despite having access to bus stops near my location, it's not easy to get a clear picture of where each bus route can take me on a single platform. The current options are:
